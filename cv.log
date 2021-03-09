@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 2.9.7300 64-bit) (preloaded format=xelatex 2020.7.18)  17 NOV 2020 23:24
+This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 2.9.7300 64-bit) (preloaded format=xelatex 2020.7.18)  8 MAR 2021 22:51
 entering extended mode
 **./cv.tex
 (cv.tex
@@ -980,8 +980,6 @@ LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/sc' will be
 (Font)              scaled to size 12.0pt on input line 10.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/b/n' will be
 (Font)              scaled to size 9.0pt on input line 15.
-LaTeX Font Info:    Font shape `TU/SourceSansPro(0)/m/n' will be
-(Font)              scaled to size 9.0pt on input line 30.
  [1
 
 ]) (cv/reviews.tex) (cv/extracurricular.tex)
@@ -998,10 +996,10 @@ Package rerunfilecheck Info: File `cv.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 31989 strings out of 414570
- 619551 string characters out of 2909978
+ 31988 strings out of 414570
+ 619526 string characters out of 2909978
  1072289 words of memory out of 3000000
- 48629 multiletter control sequences out of 15000+200000
+ 48628 multiletter control sequences out of 15000+200000
  536328 words of font info for 111 fonts, out of 3000000 for 9000
  1348 hyphenation exceptions out of 8191
  67i,11n,109p,816b,582s stack positions out of 5000i,500n,10000p,200000b,50000s
